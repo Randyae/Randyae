@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ranida Perera
+# Hi 👋, I'm Ranida
 
 ### Computer Science Student | Aspiring Software Engineer
 
